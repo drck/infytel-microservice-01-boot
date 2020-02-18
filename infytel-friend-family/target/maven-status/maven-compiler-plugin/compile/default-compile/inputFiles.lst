@@ -1,0 +1,6 @@
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-friend-family/src/main/java/com/infosys/infytel/friend/entity/FriendFamily.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-friend-family/src/main/java/com/infosys/infytel/friend/repository/FriendFamilyRepository.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-friend-family/src/main/java/com/infosys/infytel/friend/controller/FriendFamilyController.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-friend-family/src/main/java/com/infosys/infytel/friend/dto/FriendFamilyDTO.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-friend-family/src/main/java/com/infosys/infytel/friend/service/FriendFamilyService.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-friend-family/src/main/java/com/infosys/infytel/friend/FriendFamilyApplication.java

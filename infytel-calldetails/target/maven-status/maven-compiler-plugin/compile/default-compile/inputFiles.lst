@@ -1,0 +1,6 @@
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-calldetails/src/main/java/com/infosys/infytel/calldetails/dto/CallDetailsDTO.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-calldetails/src/main/java/com/infosys/infytel/calldetails/controller/CallDetailsController.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-calldetails/src/main/java/com/infosys/infytel/calldetails/entity/CallDetails.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-calldetails/src/main/java/com/infosys/infytel/calldetails/service/CallDetailsService.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-calldetails/src/main/java/com/infosys/infytel/calldetails/repository/CallDetailsRepository.java
+/Users/drck2/Documents/CursoMSSpring/spring-microservices-demos/infytel-microservice-01-boot/infytel-calldetails/src/main/java/com/infosys/infytel/calldetails/CallDetailsApplication.java

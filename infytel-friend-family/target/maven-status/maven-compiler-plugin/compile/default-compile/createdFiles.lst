@@ -1,0 +1,6 @@
+com/infosys/infytel/friend/repository/FriendFamilyRepository.class
+com/infosys/infytel/friend/service/FriendFamilyService.class
+com/infosys/infytel/friend/dto/FriendFamilyDTO.class
+com/infosys/infytel/friend/entity/FriendFamily.class
+com/infosys/infytel/friend/FriendFamilyApplication.class
+com/infosys/infytel/friend/controller/FriendFamilyController.class
